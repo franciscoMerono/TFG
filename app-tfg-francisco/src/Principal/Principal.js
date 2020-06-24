@@ -45,7 +45,7 @@ const Principal = (props) => {
           <div>
             <h1>Robot encendido</h1>
             <hr/>
-            <h1>Velocidad km/h</h1>
+            <h1>Velocidadkm/h</h1>
             <IgrRadialGauge
               backingShape="Fitted"
               backingBrush="#A1FED2"
